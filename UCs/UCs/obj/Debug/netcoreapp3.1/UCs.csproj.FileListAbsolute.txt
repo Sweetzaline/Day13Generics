@@ -1,0 +1,14 @@
+C:\Users\Amit Pegu\Desktop\Day13Generics\UCs\UCs\obj\Debug\netcoreapp3.1\UCs.csproj.AssemblyReference.cache
+C:\Users\Amit Pegu\Desktop\Day13Generics\UCs\UCs\obj\Debug\netcoreapp3.1\UCs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amit Pegu\Desktop\Day13Generics\UCs\UCs\obj\Debug\netcoreapp3.1\UCs.AssemblyInfoInputs.cache
+C:\Users\Amit Pegu\Desktop\Day13Generics\UCs\UCs\obj\Debug\netcoreapp3.1\UCs.AssemblyInfo.cs
+C:\Users\Amit Pegu\Desktop\Day13Generics\UCs\UCs\obj\Debug\netcoreapp3.1\UCs.csproj.CoreCompileInputs.cache
+C:\Users\Amit Pegu\Desktop\Day13Generics\UCs\UCs\bin\Debug\netcoreapp3.1\UCs.exe
+C:\Users\Amit Pegu\Desktop\Day13Generics\UCs\UCs\bin\Debug\netcoreapp3.1\UCs.deps.json
+C:\Users\Amit Pegu\Desktop\Day13Generics\UCs\UCs\bin\Debug\netcoreapp3.1\UCs.runtimeconfig.json
+C:\Users\Amit Pegu\Desktop\Day13Generics\UCs\UCs\bin\Debug\netcoreapp3.1\UCs.runtimeconfig.dev.json
+C:\Users\Amit Pegu\Desktop\Day13Generics\UCs\UCs\bin\Debug\netcoreapp3.1\UCs.dll
+C:\Users\Amit Pegu\Desktop\Day13Generics\UCs\UCs\bin\Debug\netcoreapp3.1\UCs.pdb
+C:\Users\Amit Pegu\Desktop\Day13Generics\UCs\UCs\obj\Debug\netcoreapp3.1\UCs.dll
+C:\Users\Amit Pegu\Desktop\Day13Generics\UCs\UCs\obj\Debug\netcoreapp3.1\UCs.pdb
+C:\Users\Amit Pegu\Desktop\Day13Generics\UCs\UCs\obj\Debug\netcoreapp3.1\UCs.genruntimeconfig.cache
