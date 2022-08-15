@@ -1,0 +1,14 @@
+C:\Users\Amit Pegu\Desktop\generics\genricsdemo\genricsdemo\bin\Debug\netcoreapp3.1\genricsdemo.exe
+C:\Users\Amit Pegu\Desktop\generics\genricsdemo\genricsdemo\bin\Debug\netcoreapp3.1\genricsdemo.deps.json
+C:\Users\Amit Pegu\Desktop\generics\genricsdemo\genricsdemo\bin\Debug\netcoreapp3.1\genricsdemo.runtimeconfig.json
+C:\Users\Amit Pegu\Desktop\generics\genricsdemo\genricsdemo\bin\Debug\netcoreapp3.1\genricsdemo.runtimeconfig.dev.json
+C:\Users\Amit Pegu\Desktop\generics\genricsdemo\genricsdemo\bin\Debug\netcoreapp3.1\genricsdemo.dll
+C:\Users\Amit Pegu\Desktop\generics\genricsdemo\genricsdemo\bin\Debug\netcoreapp3.1\genricsdemo.pdb
+C:\Users\Amit Pegu\Desktop\generics\genricsdemo\genricsdemo\obj\Debug\netcoreapp3.1\genricsdemo.csproj.AssemblyReference.cache
+C:\Users\Amit Pegu\Desktop\generics\genricsdemo\genricsdemo\obj\Debug\netcoreapp3.1\genricsdemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amit Pegu\Desktop\generics\genricsdemo\genricsdemo\obj\Debug\netcoreapp3.1\genricsdemo.AssemblyInfoInputs.cache
+C:\Users\Amit Pegu\Desktop\generics\genricsdemo\genricsdemo\obj\Debug\netcoreapp3.1\genricsdemo.AssemblyInfo.cs
+C:\Users\Amit Pegu\Desktop\generics\genricsdemo\genricsdemo\obj\Debug\netcoreapp3.1\genricsdemo.csproj.CoreCompileInputs.cache
+C:\Users\Amit Pegu\Desktop\generics\genricsdemo\genricsdemo\obj\Debug\netcoreapp3.1\genricsdemo.dll
+C:\Users\Amit Pegu\Desktop\generics\genricsdemo\genricsdemo\obj\Debug\netcoreapp3.1\genricsdemo.pdb
+C:\Users\Amit Pegu\Desktop\generics\genricsdemo\genricsdemo\obj\Debug\netcoreapp3.1\genricsdemo.genruntimeconfig.cache
